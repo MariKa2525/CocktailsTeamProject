@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://xanderkiev2022.github.io/CocktailsTeamProject",
+  "homepage": "https://MariKa2525.github.io/CocktailsTeamProject",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /CocktailsTeamProject/"
