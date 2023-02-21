@@ -58,9 +58,11 @@ function onModalText() {
 
 function truncateString(str, num, showMoreBtn) {
     if (str.length <= num) {
+
         return str;
     }
     toggleShowMoreBtn(showMoreBtn)
+    
     return str.slice(0, num) + '...';
         
 }
